@@ -1,0 +1,13 @@
+
+
+gzip
+
+
+cache:proxy/fastcgi
+
+
+
+
+1、 负载均衡
+2、 静态资源服务器
+3、 php连接器
